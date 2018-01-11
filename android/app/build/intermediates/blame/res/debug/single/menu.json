@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jkarlsru/Desktop/FreeText/android/app/build/intermediates/res/merged/debug/menu/stub.xml",
+        "source": "/Users/jkarlsru/Desktop/FreeText/android/app/build/intermediates/exploded-aar/FreeText/react-native-navigation/unspecified/res/menu/stub.xml"
+    },
+    {
+        "merged": "/Users/jkarlsru/Desktop/FreeText/android/app/build/intermediates/res/merged/debug/menu/search_item.xml",
+        "source": "/Users/jkarlsru/Desktop/FreeText/android/app/build/intermediates/exploded-aar/FreeText/react-native-navigation/unspecified/res/menu/search_item.xml"
+    }
+]
